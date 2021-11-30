@@ -131,8 +131,8 @@ results
 logs
 data_preprocess/__pycache__/
 model/__pycache__/
-models
-data
+#models
+#data
 
 # config
 
